@@ -1,0 +1,71 @@
+{
+    "chefs": [
+      {
+        "name": "Tony Khan",
+        "img": "https://i.ibb.co/6Ymg6zQ/tony.jpg",
+        "years_of_experience": 15,
+        "number_of_recipes": 250,
+        "likes": 5000
+      },
+      {
+        "name": "Bijoy Das",
+        "img":"https://i.ibb.co/8P34QPR/bijoy.jpg",
+        "years_of_experience": 12,
+        "number_of_recipes": 200,
+        "likes": 4000
+      },
+      {
+        "name": "Syed Ibrahim",
+        "img": "https://i.ibb.co/Kw5Q3pW/syed.jpg",
+        "years_of_experience": 20,
+        "number_of_recipes": 300,
+        "likes": 6000
+      },
+      {
+        "name": "Shawkat Osman",
+        "img": "https://i.ibb.co/5WpK1Yy/Shawkat-Osman.jpg",
+        "years_of_experience": 18,
+        "number_of_recipes": 275,
+        "likes": 5500
+      },
+      {
+        "name": "Rizwana Hossain",
+        "img": "https://i.ibb.co/MDPpSN9/Rizwana-Hossain.jpg",
+        "years_of_experience": 10,
+        "number_of_recipes": 150,
+        "likes": 3000
+      },
+      {
+        "name": "Rakesh Poddar",
+        "img": "https://i.ibb.co/L5h6N3x/Rakesh-Poddar.jpg",
+        "years_of_experience": 8,
+        "number_of_recipes": 125,
+        "likes": 2500
+      },
+      {
+        "name": "Farah Mahbub",
+        "years_of_experience": 5,
+        "number_of_recipes": 75,
+        "likes": 1500
+      },
+      {
+        "name": "Salahuddin Ahmed",
+        "years_of_experience": 7,
+        "number_of_recipes": 100,
+        "likes": 2000
+      },
+      {
+        "name": "Kamal Ahmed",
+        "years_of_experience": 11,
+        "number_of_recipes": 175,
+        "likes": 3500
+      },
+      {
+        "name": "Mujibur Rahman",
+        "years_of_experience": 13,
+        "number_of_recipes": 225,
+        "likes": 4500
+      }
+    ]
+  }
+  
