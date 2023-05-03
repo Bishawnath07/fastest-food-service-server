@@ -1,71 +1,217 @@
-{
-    "chefs": [
-      {
+ [
+      { "id": "1",
         "name": "Tony Khan",
+        "description": "Tony Alal Karim Khan is a Bangladeshi chef and hotelier. He has received awards and nominations as a chef.He has appeared as a celebrity cook on television shows.He is previously general manager and director of food and beverages",
         "img": "https://i.ibb.co/6Ymg6zQ/tony.jpg",
         "years_of_experience": 15,
         "number_of_recipes": 250,
-        "likes": 5000
-      },
+        "likes": 5000 ,
+        "items": [{
+          "recipe_name": "Spaghetti Carbonara",
+          "image": "https://i.ibb.co/WKRD5Sj/images.jpg",
+          "ingredients": " spaghetti4 oz pancetta, diced  cloves garlic minced" ,
+          
+          "cooking_method": " Cook the spaghetti according to package directions until al dente. Reserve 1/2 cup of the pasta water and drain the rest." ,
+          "rating": 4.5
+      } ,
+
       {
-        "name": "Bijoy Das",
-        "img":"https://i.ibb.co/8P34QPR/bijoy.jpg",
-        "years_of_experience": 12,
-        "number_of_recipes": 200,
-        "likes": 4000
-      },
+        "recipe_name": "Spicy Chicken Curry",
+        "image": "https://i.ibb.co/WftNvCt/download-1.jpg",
+        "ingredients": "1 lb chicken breast, cubed",
+        "cooking_method": "1. Heat oil in a large skillet over medium-high heat. ",
+        "rating": 4.5
+      } ,
+
       {
-        "name": "Syed Ibrahim",
-        "img": "https://i.ibb.co/Kw5Q3pW/syed.jpg",
-        "years_of_experience": 20,
-        "number_of_recipes": 300,
-        "likes": 6000
-      },
-      {
-        "name": "Shawkat Osman",
-        "img": "https://i.ibb.co/5WpK1Yy/Shawkat-Osman.jpg",
-        "years_of_experience": 18,
-        "number_of_recipes": 275,
-        "likes": 5500
-      },
-      {
-        "name": "Rizwana Hossain",
-        "img": "https://i.ibb.co/MDPpSN9/Rizwana-Hossain.jpg",
-        "years_of_experience": 10,
-        "number_of_recipes": 150,
-        "likes": 3000
-      },
-      {
-        "name": "Rakesh Poddar",
-        "img": "https://i.ibb.co/L5h6N3x/Rakesh-Poddar.jpg",
-        "years_of_experience": 8,
-        "number_of_recipes": 125,
-        "likes": 2500
-      },
-      {
-        "name": "Farah Mahbub",
-        "years_of_experience": 5,
-        "number_of_recipes": 75,
-        "likes": 1500
-      },
-      {
-        "name": "Salahuddin Ahmed",
-        "years_of_experience": 7,
-        "number_of_recipes": 100,
-        "likes": 2000
-      },
-      {
-        "name": "Kamal Ahmed",
-        "years_of_experience": 11,
-        "number_of_recipes": 175,
-        "likes": 3500
-      },
-      {
-        "name": "Mujibur Rahman",
-        "years_of_experience": 13,
-        "number_of_recipes": 225,
-        "likes": 4500
+        "recipe_name": "Garlic Shrimp",
+        "image": "https://i.ibb.co/WftNvCt/download-1.jpg" ,
+        "ingredients": "1 lb shrimp, peeled and deveined",
+        "cooking_method": "1. Cook linguine pasta in a large pot of salted boiling water until al dente.",
+        "rating": 4.8
       }
     ]
-  }
+      },
+      { "id": "2",
+        "name": "Bijoy Das",
+        "description": "Bijoy Das  is a professional cook who specializes in preparing and cooking food in a variety of culinary settings, such as restaurants, hotels, or catering companies",
+        "img":"https://i.ibb.co/Dz3X3WZ/bijoy-das.png",
+        "years_of_experience": 12,
+        "number_of_recipes": 200,
+        "likes": 4000 ,
+        "items":  [{
+          "recipe_name": "Spaghetti Carbonara",
+          "image": "https://i.ibb.co/WKRD5Sj/images.jpg",
+          "ingredients": "8 oz spaghetti 4 oz pancetta, diced",
+          "cooking_method": 
+              "1. Cook the spaghetti according to package directions until al dente. Reserve 1/2 cup of the pasta water and drain the rest.",
+          "rating": 4.5
+      } ,
+
+      {
+        "recipe_name": "Spicy Chicken Curry",
+        "image": "https://i.ibb.co/WftNvCt/download-1.jpg",
+        "ingredients": "1 lb chicken breast, cubed",
+        "cooking_method": "1. Heat oil in a large skillet over medium-high heat.",
+        "rating": 4.5
+      } ,
+
+      {
+        "recipe_name": "Garlic Shrimp",
+        "image": "https://i.ibb.co/WftNvCt/download-1.jpg" ,
+        "ingredients": 
+          "1 lb shrimp, peeled and deveined",
+        "cooking_method": "1. Cook linguine pasta in a large pot of salted boiling water until al dente.",
+        "rating": 4.8
+      }
+    ]
+      
+      },
+      { "id": "3",
+        "name": "Syed Ibrahim",
+        "description": "Syed Ibrahim is a Bangladeshi chef and hotelier. He has received awards and nominations as a chef.[2]He has appeared as a celebrity cook on television shows.He is previously general manager and director of food and beverages",
+        "img": "https://i.ibb.co/ZVMwdLX/Shawkat-Osman-1.png",
+        "years_of_experience": 20,
+        "number_of_recipes": 300,
+        "likes": 6000 ,
+        "items":  [{
+          "recipe_name": "Spaghetti Carbonara",
+          "image": "https://i.ibb.co/WKRD5Sj/images.jpg",
+          "ingredients": 
+              "8 oz spaghettioz pancetta",
+          "cooking_method": "1. Cook the spaghetti according to package directions until al dente. Reserve 1/2 cup of the pasta water and drain the rest." ,
+          "rating": 4.5
+      } ,
+
+      {
+        "recipe_name": "Spicy Chicken Curry",
+        "image": "https://i.ibb.co/WftNvCt/download-1.jpg",
+        "ingredients": " chicken breast, cubed onion, chopped" ,
+        
+        "cooking_method": "1. Heat oil in a large skillet over medium-high heat. ",
+        "rating": 4.5
+      } ,
+
+      {
+        "recipe_name": "Garlic Shrimp ",
+        "image": "https://i.ibb.co/WftNvCt/download-1.jpg" ,
+        "ingredients": 
+          "1 lb shrimp, peeled and deveined",
+          
+        "cooking_method": "1. Cook linguine pasta in a large pot of salted boiling water until al dente.",
+        "rating": 4.8
+      }
+    ]
+      },
+      { "id": "4",
+        "name": "Shawkat Osman",
+        "description": "Shawkat Osman is a Bangladeshi chef and hotelier. He has received awards and nominations as a chef.[2]He has appeared as a celebrity cook on television shows.He is previously general manager and director of food and beverages",
+        "img": "https://i.ibb.co/VwB8C19/Shawkat-Osman.png",
+        "years_of_experience": 18,
+        "number_of_recipes": 275,
+        "likes": 5500 ,
+        "items":  [{
+          "recipe_name": "Spaghetti Carbonara",
+          "image": "https://i.ibb.co/WKRD5Sj/images.jpg",
+          "ingredients": 
+              "8 oz spaghetti",
+          "cooking_method": 
+              "1. Cook the spaghetti according to package directions until al dente. Reserve 1/2 cup of the pasta water and drain the rest.",
+         
+          "rating": 4.5
+      } ,
+
+      {
+        "recipe_name": "Spicy Chicken Curry",
+        "image": "https://i.ibb.co/WftNvCt/download-1.jpg",
+        "ingredients": 
+          "1 lb chicken breast, cubed",
+        
+        "cooking_method": "1. Heat oil in a large skillet over medium-high heat. ",
+        "rating": 4.5
+      } ,
+
+      {
+        "recipe_name": "Garlic Shrimp ",
+        "image": "https://i.ibb.co/WftNvCt/download-1.jpg" ,
+        "ingredients": 
+          "1 lb shrimp, peeled and deveined",
+        "cooking_method": "1. Cook linguine pasta in a large pot of salted boiling water until al dente",
+        "rating": 4.8
+      }
+    ]
+      },
+      { "id": "5",
+        "name": "Rizwana Hossain",
+        "description": "Rizwana Hossain is a Bangladeshi chef and hotelier. He has received awards and nominations as a chef.[2]He has appeared as a celebrity cook on television shows.He is previously general manager and director of food and beverages",
+        "img": "https://i.ibb.co/gV3vsdZ/Rizwana-Hossain.png",
+        "years_of_experience": 10,
+        "number_of_recipes": 150,
+        "likes": 3000 ,
+        "items":  [
+          {
+          "recipe_name": "Spaghetti Carbonara",
+          "image": "https://i.ibb.co/WKRD5Sj/images.jpg",
+          "ingredients": 
+              "8 oz spaghetti",
+          "cooking_method": 
+              "1. Cook the spaghetti according to package directions until al dente. Reserve 1/2 cup of the pasta water and drain the rest.",
+          "rating": 4.5
+      } ,
+
+      {
+        "recipe_name": "Spicy Chicken Curry",
+        "image": "https://i.ibb.co/WftNvCt/download-1.jpg",
+        "ingredients": 
+          "1 lb chicken breast, cubed",
+        "cooking_method": "1. Heat oil in a large skillet over medium-high heat. ",
+        "rating": 4.5
+      } ,
+
+      {
+        "recipe_name": "Garlic Shrimp",
+        "image": "https://i.ibb.co/WftNvCt/download-1.jpg",
+        "ingredients": 
+          "1 lb shrimp, peeled and deveined",
+        "cooking_method": "1. Cook linguine pasta in a large pot of salted boiling water until al dente.",
+        "rating": 4.8
+      }
+    ]
+      },
+      { "id": "6",
+        "name": "Rakesh Poddar",
+        "description": "Rakesh Poddar is a Bangladeshi chef and hotelier. He has received awards and nominations as a chef.[2]He has appeared as a celebrity cook on television shows.He is previously general manager and director of food and beverages",
+        "img": "https://i.ibb.co/wQZxBf0/Rakesh-Poddar.png",
+        "years_of_experience": 8,
+        "number_of_recipes": 125,
+        "likes": 2500 ,
+        "items": [{
+          "recipe_name": "Spaghetti Carbonara",
+          "image": "https://i.ibb.co/WKRD5Sj/images.jpg",
+          "ingredients": 
+              "8 oz spaghetti",
+          "cooking_method": 
+              "1. Cook the spaghetti according to package directions until al dente. Reserve 1/2 cup of the pasta water and drain the rest.",
+          "rating": 4.5
+      } ,
+
+      {
+        "recipe_name": "Spicy Chicken Curry",
+        "image": "https://i.ibb.co/WftNvCt/download-1.jpg",
+        "ingredients": "1 lb chicken breast, cubed",     
+        "cooking_method": "1. Heat oil in a large skillet over medium-high heat.",
+        "rating": 4.5
+      } ,
+
+      {
+        "recipe_name": "Garlic Shrimp ",
+        "image": "https://i.ibb.co/WftNvCt/download-1.jpg",
+        "ingredients": 
+          "1 lb shrimp, peeled and deveined",
+        "cooking_method": "1. Cook linguine pasta in a large pot of salted boiling water until al dente",
+        "rating": 4.8
+      }
+    ]
+      }
+ ]
   
