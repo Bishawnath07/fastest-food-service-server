@@ -7,28 +7,28 @@
         "number_of_recipes": 250,
         "likes": 5000 ,
         "items": [{
-          "recipe_name": "Spaghetti Carbonara",
-          "image": "https://i.ibb.co/WKRD5Sj/images.jpg",
-          "ingredients": " spaghetti4 oz pancetta, diced  cloves garlic minced" ,
+          "recipe_name1": "Spaghetti Carbonara",
+          "image1": "https://i.ibb.co/WKRD5Sj/images.jpg",
+          "ingredients1": " spaghetti4 oz pancetta, diced  cloves garlic minced" ,
           
-          "cooking_method": " Cook the spaghetti according to package directions until al dente. Reserve 1/2 cup of the pasta water and drain the rest." ,
-          "rating": 4.5
+          "cooking_method1": " Cook the spaghetti according to package directions until al dente. Reserve 1/2 cup of the pasta water and drain the rest." ,
+          "rating1": 4.5
       } ,
 
       {
-        "recipe_name": "Spicy Chicken Curry",
-        "image": "https://i.ibb.co/WftNvCt/download-1.jpg",
-        "ingredients": "1 lb chicken breast, cubed",
-        "cooking_method": "1. Heat oil in a large skillet over medium-high heat. ",
-        "rating": 4.5
+        "recipe_name2": "Spicy Chicken Curry",
+        "image2": "https://i.ibb.co/WftNvCt/download-1.jpg",
+        "ingredients2": "1 lb chicken breast, cubed",
+        "cooking_method2": "1. Heat oil in a large skillet over medium-high heat. ",
+        "rating2": 4.5
       } ,
 
       {
-        "recipe_name": "Garlic Shrimp",
-        "image": "https://i.ibb.co/WftNvCt/download-1.jpg" ,
-        "ingredients": "1 lb shrimp, peeled and deveined",
-        "cooking_method": "1. Cook linguine pasta in a large pot of salted boiling water until al dente.",
-        "rating": 4.8
+        "recipe_name3": "Garlic Shrimp",
+        "image3": "https://i.ibb.co/WftNvCt/download-1.jpg" ,
+        "ingredients3": "1 lb shrimp, peeled and deveined",
+        "cooking_method3": "1. Cook linguine pasta in a large pot of salted boiling water until al dente.",
+        "rating3": 4.8
       }
     ]
       },
